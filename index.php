@@ -78,7 +78,7 @@
 
     <!-- Stopka -->
     <footer class="mt-5 text-muted small">
-     2018 - <?php echo date('Y') ?> &copy;  Patryk Różański – R45K1
+     2018 - <?php echo date('Y'); ?> &copy; Patryk Różański – R45K1
     </footer>
   </div>
 
