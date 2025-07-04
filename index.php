@@ -61,7 +61,7 @@
           <i class="bi bi-linkedin"></i> LinkedIn
         </a>
         <a 
-          href="mailto:patryk@example.com" 
+          href="mailto:rozanski.patryk98@gmail.com" 
           class="btn btn-outline-dark btn-lg link-button"
         >
           <i class="bi bi-envelope-fill"></i> Email
@@ -78,7 +78,7 @@
 
     <!-- Stopka -->
     <footer class="mt-5 text-muted small">
-      &copy; 2025 Patryk Różański – R45K1
+     2018 - <?php echo date('Y') ?> &copy;  Patryk Różański – R45K1
     </footer>
   </div>
 
