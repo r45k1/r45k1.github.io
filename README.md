@@ -45,4 +45,10 @@ Full Stack Web&App Developer
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r45k1&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r45k1&layout=compact&theme=dark)
+
+
+
+---
+
 Thanks for visiting 🚀  
