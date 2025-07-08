@@ -9,7 +9,7 @@ Full Stack Web&App Developer
 
 ## My free project — free font CSS - FajneIkontki!
 
-| Projekt             | Description                   | Demo / Presentation                  |
+| Project             | Description                   | Demo / Presentation                  |
 |---------------------|-------------------------------|--------------------------------------|
 | FajneIkonki | icons, svg, css, webfont, font-icons, open-source, frontend | [Reposytory](https://github.com/r45k1/FajneIkonki) |
 
@@ -23,7 +23,7 @@ Full Stack Web&App Developer
 
 ## My project — show live demo!
 
-| Projekt             | Description                   | Demo / Presentation                  |
+| Project             | Description                   | Demo / Presentation                  |
 |---------------------|-------------------------------|--------------------------------------|
 | CyfryzacjaTransportu | Personal project PHP, SQL, Bootstrap5 | [Show me](https://github.com/r45k1/CyfryzacjaTransportu) |
 | App Mobile -  RapReview PODCAST  | Kotlin/Android, REST API PHP, firebase| [Show me](https://github.com/r45k1/App-Rapreview)   |
