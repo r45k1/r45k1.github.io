@@ -3,7 +3,8 @@
 Full Stack Web&App Developer
 
 ---
-:hammer_and_wrench:	HTML5&CSS3, Bootstrap5, PHP/PHP API, SQL(mySQL, firebase), Android/Kotlin (no ketchup 😅)
+:hammer_and_wrench:	Stack technologiczny: HTML5&CSS3, Bootstrap5, PHP/PHP API, SQL(mySQL, firebase), Android/Kotlin (no ketchup 😅)
+
 ---
 
 📇 **Tutaj znajdziesz moje portfolio projektów** — prezentuję działające aplikacje, które możesz przetestować, zobaczyć jak wyglądają, a jeśli chcesz, zapytaj mnie o kod!  
