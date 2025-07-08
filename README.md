@@ -7,6 +7,14 @@ Full Stack Web&App Developer
 
 ---
 
+## My free project — free font CSS - FajneIkontki!
+
+| Projekt             | Description                   | Demo / Presentation                  |
+|---------------------|-------------------------------|--------------------------------------|
+| FajneIkonki | icons, svg, css, webfont, font-icons, open-source, frontend | [Reposytory](https://github.com/r45k1/FajneIkonki) |
+
+---
+
  📇  I presented a working web and mobile application that can be tested and reviewed. If you'd like to see the code, feel free to request it.
 
 
