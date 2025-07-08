@@ -3,38 +3,38 @@
 Full Stack Web&App Developer
 
 ---
-:hammer_and_wrench:	Stack technologiczny: HTML5&CSS3, Bootstrap5, PHP/PHP API, SQL(mySQL, firebase), Android/Kotlin (no ketchup 😅)
+:hammer_and_wrench:	Technology Stack: HTML5&CSS3, Bootstrap5, PHP/PHP API, SQL(mySQL, firebase), Android/Kotlin (no ketchup 😅)
 
 ---
 
-📇 **Tutaj znajdziesz moje portfolio projektów** — prezentuję działające aplikacje, które możesz przetestować, zobaczyć jak wyglądają, a jeśli chcesz, zapytaj mnie o kod!  
+ 📇  I presented a working web and mobile application that can be tested and reviewed. If you'd like to see the code, feel free to request it.
+
 
 
 ---
 
-## Moje projekty — zobacz live demo!
+## My project — show live demo!
 
-| Projekt             | Opis                          | Demo / Prezentacja                         |
-|---------------------|-------------------------------|-------------------------------------------|
-| CyfryzacjaTransportu | Osobisty projekt PHP, SQL, Bootstrap5 | [Show me](https://github.com/r45k1/CyfryzacjaTransportu) |
-| Aplikacja RapReview PODCAST  | Aplikacja Kotlin/Android, REST API PHP, firebase| [Show me](https://github.com/r45k1/App-Rapreview)   |
+| Projekt             | Description                   | Demo / Presentation                  |
+|---------------------|-------------------------------|--------------------------------------|
+| CyfryzacjaTransportu | Personal project PHP, SQL, Bootstrap5 | [Show me](https://github.com/r45k1/CyfryzacjaTransportu) |
+| Aplication Mobile -  RapReview PODCAST  | Kotlin/Android, REST API PHP, firebase| [Show me](https://github.com/r45k1/App-Rapreview)   |
 | Plugin CMS Kalkulator  | Plugin Custom WordPress, calculate UK Tax from Crypto| [Show me](https://github.com/r45k1/PHP-Crypto-Calc)   |
 
 ---
 
-## Jak korzystać z moich projektów?
+## My presonal motto?
 
-- Każdy link przenosi do działającej wersji aplikacji — bez konieczności przeglądania kodu.  
-- Jeśli interesuje Cię kod lub chcesz porozmawiać o projekcie, zapraszam do kontaktu!  
+- I like fast applications with zero latency and clean code
 
 ---
 
-## Kontakt ze mną
+## Contact with me
 
 - 📧 Email: rozanski.patryk98@gmail.com
 - 💼 LinkedIn: [Klik](https://linkedin.com/in/patrykrozanski)  
-- 🌐 Strona www: [bio](https://r45k1.github.io/r45k1/)
+- 🌐 Website www: [bio](https://r45k1.github.io/r45k1/)
 
 ---
 
-Dzięki, że tu jesteś! 🚀  
+Thanks for visiting 🚀  
