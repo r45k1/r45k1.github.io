@@ -17,7 +17,7 @@ Full Stack Web&App Developer
 | Projekt             | Opis                          | Demo / Prezentacja                         |
 |---------------------|-------------------------------|-------------------------------------------|
 | CyfryzacjaTransportu | Osobisty projekt PHP, SQL, Bootstrap5 | [Zobacz stronę](#res) |
-| Aplikacja RapReview PODCAST  | Aplikacja Kotlin/Android, REST API PHP, firebase| [Sprawdź stronę](#res)   |
+| Aplikacja RapReview PODCAST  | Aplikacja Kotlin/Android, REST API PHP, firebase| [Sprawdź stronę](https://github.com/r45k1/App-Rapreview)   |
 | Plugin CMS Kalkulator  | Plugin Custom WordPress, calculate UK Tax from Crypto| [Sprawdź stronę](https://github.com/r45k1/PHP-Crypto-Calc)   |
 
 ---
